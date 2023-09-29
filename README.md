@@ -7,7 +7,7 @@
 - 🔭 Currently working on:
   - Build a compiler for a new programming language using LLVM (HackUTA).
   - A 3D graphics web app tool for Knell Graphics called "Knell Graphics Educational Aid" (senior design project at UTA).
-  - An AIO dealership, inventory, and customer management system for Five Stone Investments LLC (work project).
+  - An AIO web app for a dealership's inventory and customer management system (Five Stone Investments LLC work project).
   
 - 🌱 Currently learning: LLVM, a collection of modular and reusable compiler and toolchain technologies used to develop frontend and backend compiler components.
   
