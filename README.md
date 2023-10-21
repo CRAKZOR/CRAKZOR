@@ -7,7 +7,7 @@
 - 🔭 Currently working on:
   - A 3D graphics web app tool for Knell Graphics called "Knell Graphics Educational Aid" (senior design project at UTA).
   - An AIO web app for a dealership's inventory and customer management system (Five Stone Investments LLC work project).
-  - The Armadillo programming language (https://devpost.com/software/the-armadillo-programming-language).
+  - [The Armadillo programming language](https://devpost.com/software/the-armadillo-programming-language).
   
 - 🌱 Currently learning:
   - Java  
