@@ -5,7 +5,7 @@
 -->
 
 - 🔭 Currently working on:
-  - Build a compiler for a new programming language using LLVM (HackUTA).
+  - The Armadillo programming language (https://devpost.com/software/the-armadillo-programming-language).
   - A 3D graphics web app tool for Knell Graphics called "Knell Graphics Educational Aid" (senior design project at UTA).
   - An AIO web app for a dealership's inventory and customer management system (Five Stone Investments LLC work project).
   
